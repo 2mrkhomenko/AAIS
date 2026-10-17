@@ -61,5 +61,3 @@ dd = (
     .drop_duplicates()
     .reset_index(drop=True)
 )
-
-print(dd)
