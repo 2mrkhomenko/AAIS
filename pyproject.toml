@@ -15,6 +15,7 @@ dependencies = [
     "numpy>=2.5.4",
     "openpyxl>=3.1.5",
     "pandas>=3.0.6",
+    "pystlouisfed>=3.0.0",
     "rapidfuzz>=3.14.6",
     "requests>=2.34.2",
     "scikit-learn>=1.9.1",
